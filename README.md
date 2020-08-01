@@ -30,7 +30,16 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ### 📈 GitHub Stats
+<a href="https://github.com/devionb/devionb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devionb&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/devionb/devionb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devionb&show_icons=true&theme=dracula" />
+</a>
+
+<!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devionb&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devionb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devionb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### 🎧 Now Playing on Spotify
