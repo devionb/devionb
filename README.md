@@ -8,7 +8,9 @@
 - <img align="left" alt="keyboard" width="22px" src="keyboard.svg"/> Fun fact: I have an unhealthy addiction with mechanical keyboards
 
 ### Connect with me:
-[<img align="left" alt="linkedin" width="22px" src="linkedin.svg" href="https://www.linkedin.com/in/devion-buchynsky/"/>] 
+<a href="https://www.linkedin.com/in/devion-buchynsky/">
+<img align="left" alt="linkedin" width="22px" src="linkedin.svg"/>
+</a>
 
 
 <br />
