@@ -29,14 +29,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
 ### 📈 GitHub Stats
-<a href="https://github.com/devionb/devionb">
+<a href="https://github.com/devionb/top-langs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devionb&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/devionb/devionb">
+<a href="https://github.com/devionb/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=devionb&show_icons=true&theme=dracula" />
 </a>
 
+<br />
 <!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devionb&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devionb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
