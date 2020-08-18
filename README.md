@@ -42,4 +42,4 @@
 <br />
 
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing.devionb.vercel.app/api/spotify-playing)](https://open.spotify.com/user/devion9?si=MsMmZlFrQfSS0rbz4vX3CQ)
+[![Spotify](https://spotify-now-playing-mu.vercel.app/api/spotify-playing)](https://open.spotify.com/user/devion9?si=MsMmZlFrQfSS0rbz4vX3CQ)
