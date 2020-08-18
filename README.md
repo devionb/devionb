@@ -42,4 +42,6 @@
 <br />
 
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing.devionb.vercel.app/api/spotify-playing)](https://open.spotify.com/user/devion9?si=MsMmZlFrQfSS0rbz4vX3CQ)
+<a href="https://spotify-now-playing.devionb.vercel.app/api/spotify-playing?open">
+    <img src="https://spotify-now-playing.devionb.vercel.app/api/spotify-playing" width="256" height="64" alt="Now Playing">`
+</a>
