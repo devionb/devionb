@@ -42,3 +42,5 @@
 <br />
 
 ### 🎧 Now Playing on Spotify
+[<img src="https://spotify-now-playing-mu.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/MsMmZlFrQfSS0rbz4vX3CQ)
